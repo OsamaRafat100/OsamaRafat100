@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer Student || Competitive programmer</h3>
 
 
-- 📝 My LinkedIn profile :<a href="https://www.linkedin.com/in/abdelrahman-alaa-sadik">LinkedIn profile</a>
+- 📝 My LinkedIn profile :<a href="https://www.linkedin.com/in/osama-rafat100">LinkedIn profile</a>
 
 - 📫 How to reach me **osama.rafat100@gmail.com**
 
