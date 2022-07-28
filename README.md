@@ -31,7 +31,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaRafat100&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaFaried3&&show_icons=true&theme=noctis_minimus&hide=prs,issues,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsamaRafat100&&show_icons=true&theme=noctis_minimus&hide=prs,issues,contribs)
 
 
 
