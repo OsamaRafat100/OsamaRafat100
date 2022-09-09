@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Osama Rafat</h1>
 <h3 align="center">Software Engineer Student || Competitive programmer</h3>
 
+- 👀 I’m interested Problem Solving
+- ⚡ A fact about me **I love coding**
 
 - 📝 My LinkedIn profile :<a href="https://www.linkedin.com/in/osama-rafat100">LinkedIn profile</a>
 
 - 📫 How to reach me **osama.rafat100@gmail.com**
 
 
-- ⚡ A fact about me **I love coding**
 
 <br>
 
